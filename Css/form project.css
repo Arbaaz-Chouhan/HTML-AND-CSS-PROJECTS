@@ -1,0 +1,96 @@
+h1{
+    text-align: center;
+    border: 5px solid black;
+    border-width: 10px;
+    padding-left: 70px;
+    padding-right:70px ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left:300px ;
+    margin-right: 300px;
+    background-color:palevioletred;
+}
+body{
+    background-color: darkslategrey;
+    
+}
+form{
+    background-color:black;
+    color:palevioletred;
+    border: 5px solid aqua;
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 125px;
+    margin-top: 30px;
+    margin-left: 130px;
+    margin-right: 130px;
+
+
+}
+#a1{
+    border-radius:20px ;
+}
+#a2{
+    border-radius:20px ;
+}
+#a1{
+    border-radius:20px ;
+}#a3{
+    border-radius:20px ;
+}
+#a4{
+    border-radius:20px ;
+}
+#a5{
+    border-radius:20px ;
+}
+#a6{
+    border-radius:20px ;
+}
+#a7{
+    border-radius:20px ;
+}
+#a8{
+    border-radius:20px ;
+
+}
+#a9{
+    border-radius:20px ;
+}
+#a10{
+    border-radius:20px ;
+}
+#a11{
+    border-radius:20px ;
+}
+#a12{
+    border-radius:20px ;
+}
+#a13{
+    border-radius:20px ;
+}
+#a14{
+    border-radius:20px ;
+}
+#a15{
+    border-radius:20px ;
+}
+#a16{
+    border-radius:20px ;
+}
+#a17{
+    border-radius:20px ;
+}
+.a1{
+    border-radius: 20px;
+    margin-left:400px ;
+    font-size:30px;
+
+}
+.a2{
+    border-radius: 20px;
+    font-size:30px ;
+margin-left: 20px;
+}

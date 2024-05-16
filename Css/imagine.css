@@ -1,0 +1,62 @@
+h1 {
+    border: 2px solid black;
+    padding: 60px;
+    width: 50px;
+    background-color: red;
+    position: relative;
+    animation: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+
+
+}
+
+@keyframes example {
+    0% {
+        background-color: red;
+        left: 0px;
+        top: 0px;
+    }
+
+    25% {
+        background-color: yellow;
+        left: 200px;
+        top: 0px;
+    }
+
+    50% {
+        background-color: blue;
+        left: 200px;
+        top: 200px;
+    }
+
+    75% {
+        background-color: green;
+        left: 0%px;
+        top: 200px;
+    }
+
+    100% {
+        background-color: red;
+        left: 0px;
+        top: 0px;
+    }
+}
+
+div {
+
+    border: 2px solid black;
+    padding: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 50px;
+    background-color: red;
+    transition: 2s;
+}
+
+div:hover {
+    width: 300px;
+}

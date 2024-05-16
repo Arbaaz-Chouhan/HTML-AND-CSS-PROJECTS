@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color:palevioletred
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: xx-large;
+}
+h1{
+    background-color: black;
+    border-color:black;
+    border:solid black 6px;
+    color:red;
+    margin-left:300px;
+    margin-right: 300px;
+}

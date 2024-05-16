@@ -1,0 +1,43 @@
+body {
+    background-color: darkcyan;
+}
+
+form {
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 20px;
+    background-color: rgb(47, 68, 79);
+    color: white;
+    height: 580px;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+
+}
+
+h2 {
+    text-align: center;
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: black;
+    color: white;
+    margin-top: 170px;
+
+
+}
+
+.formInout {
+    width: 580px;
+}
